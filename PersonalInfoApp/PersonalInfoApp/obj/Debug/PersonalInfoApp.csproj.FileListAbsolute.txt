@@ -1,0 +1,9 @@
+E:\BITM\PersonalInfoApp\PersonalInfoApp\bin\Debug\PersonalInfoApp.exe.config
+E:\BITM\PersonalInfoApp\PersonalInfoApp\bin\Debug\PersonalInfoApp.exe
+E:\BITM\PersonalInfoApp\PersonalInfoApp\bin\Debug\PersonalInfoApp.pdb
+E:\BITM\PersonalInfoApp\PersonalInfoApp\obj\Debug\PersonalInfoApp.csprojResolveAssemblyReference.cache
+E:\BITM\PersonalInfoApp\PersonalInfoApp\obj\Debug\PersonalInfoApp.Form1.resources
+E:\BITM\PersonalInfoApp\PersonalInfoApp\obj\Debug\PersonalInfoApp.Properties.Resources.resources
+E:\BITM\PersonalInfoApp\PersonalInfoApp\obj\Debug\PersonalInfoApp.csproj.GenerateResource.Cache
+E:\BITM\PersonalInfoApp\PersonalInfoApp\obj\Debug\PersonalInfoApp.exe
+E:\BITM\PersonalInfoApp\PersonalInfoApp\obj\Debug\PersonalInfoApp.pdb
